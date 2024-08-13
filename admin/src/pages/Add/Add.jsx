@@ -4,8 +4,7 @@ import { assets } from '../../assets/assets';
 import axios from 'axios';
 import { toast } from 'react-toastify';
 
-const Add = () => {
-    const url="http://localhost:4000";
+const Add = ({url}) => {
     const [image,setImage]=useState(false);
     const [data,setData]=useState({
         name:"",
@@ -89,3 +88,4 @@ const Add = () => {
 }
 
 export default Add
+//5:31:46 / 10:01:04
