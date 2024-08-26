@@ -5,12 +5,12 @@ Tomato is a modern food delivery service application built using the MERN stack 
 
 
 Features:
-    1. User Authentication: Sign up and log in using JWT-based authentication.
-    2. Restaurant & Menu Management: Browse restaurants and their menus.
-    3. Order Placement: Add items to the cart and place orders.
-    4. Payment Integration: Secure payments powered by Stripe.
-    5. Order Tracking: Track the status of your orders in real-time.
-    6. Admin Panel: Manage restaurants, menus, and orders.
+ 1. User Authentication: Sign up and log in using JWT-based authentication.
+ 2. Restaurant & Menu Management: Browse restaurants and their menus.
+ 3. Order Placement: Add items to the cart and place orders.
+ 4. Payment Integration: Secure payments powered by Stripe.
+ 5. Order Tracking: Track the status of your orders in real-time.
+ 6. Admin Panel: Manage restaurants, menus, and orders.
 
 Tech Stack:
     Frontend: React.js, Redux, CSS
