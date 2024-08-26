@@ -2,6 +2,8 @@
 Tomato 🍅
 
 Tomato is a modern food delivery service application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides a seamless user experience for ordering food online with secure payment processing through Stripe.
+
+
 Features:
     1. User Authentication: Sign up and log in using JWT-based authentication.
     2. Restaurant & Menu Management: Browse restaurants and their menus.
