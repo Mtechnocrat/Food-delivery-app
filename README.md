@@ -13,10 +13,11 @@ Features:
  6. Admin Panel: Manage restaurants, menus, and orders.
 
 Tech Stack:
-    Frontend: React.js, Redux, CSS
-    Backend: Node.js, Express.js
-    Database: MongoDB
-    Payment Gateway: Stripe
+
+  Frontend: React.js, Redux, CSS
+  Backend: Node.js, Express.js
+  Database: MongoDB
+  Payment Gateway: Stripe
 
 
 Installation:
